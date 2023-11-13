@@ -1,6 +1,6 @@
 # **Hexa Avengers (E-Commerce Shipping Data)**
 
-![warehouse](img/cover.png)
+![cover](img/cover.png)
 
 # **Introduction**
 ## Problem
