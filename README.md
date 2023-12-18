@@ -48,3 +48,10 @@ Proses pembersihan dan penyesuaian data yang dilakukan adalah handling outlier, 
 
 # **Modelling**
 Algoritma Machine Learning (ML) digunakan untuk memprediksi keterlambatan barang dengan model diantaranya adalah Logistic Regression, KNN, Decision Tree, Random Forest, AdaBoost, dan XGBoost. Diantara model tersebut Logistic Regression memiliki performa terbaik untuk data ini.
+
+# **About**
+Repositori ini terdiri dari beberapa folder, berikut penjelasan dari masing-masing folder:
+- Code: berisikan source code jupyter notebook
+- Dokumen: berisikan laporan penjelasan keseluruhan project dan ppt presentasi
+- E-Commerce_Shipping_Dataset: berisikan dataset yang digunakan
+- img: berisikan gambar introduction
